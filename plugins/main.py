@@ -40,9 +40,9 @@ ABOUT_TEXT = """--**About Me 😎**--
 
 🤖 **Name :** [𝗧𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗼𝗿 𝗕𝗼𝘁](https://telegram.me/{})
 
-👨‍💻 **Developer :** [𝗦𝗮𝗻𝗮𝘁𝗮𝗻𝗶 𝗦𝘆𝗻𝗮𝘅](https://github.com/FayasNoushad)
+👨‍💻 **Developer :** [𝗦𝗮𝗻𝗮𝘁𝗮𝗻𝗶 𝗦𝘆𝗻𝗮𝘅](https://t.me/sanatanisynax)
 
-📢 **Channel :** [𝗦𝘆𝗻𝗮𝘅 𝗕𝗼𝘁𝘀](https://telegram.me/FayasNoushad)
+📢 **Channel :** [𝗦𝘆𝗻𝗮𝘅 𝗕𝗼𝘁𝘀](https://telegram.me/synaxbots)
 
 📝 **Language :** [𝗣𝘆𝘁𝗵𝗼𝗻3](https://python.org)
 
