@@ -1,0 +1,39 @@
+{
+    "name": "Translator v1 Bot Synax",
+    "description": "Telegram Translator Bot By Synax",
+    "logo": "https://telegra.ph/file/625f8f58e2dfdc92f156a.jpg",
+    "keywords": ["Tanslator Bot v1", "Mongo DB"],    
+    "repository": "https://github.com/synaxxlove/Translator-Bot",
+    "env": {
+        "API_ID": {
+            "description": "Your APP ID From my.telegram.org ",
+            "value": "",
+            "required": true
+        },
+        "API_HASH": {
+            "description": "Your API Hash From my.telegram.org ",
+            "value": "",
+            "required": true
+        },
+        "BOT_TOKEN": {
+            "description": "Your Bot Token From @BotFather",
+            "value": "",
+            "required": true
+        },
+        "BOT_OWNER": {
+            "description":"Add Your User ID multiple is use space to split",
+            "value": "",
+            "required": true
+        },
+        "DATABASE_URL": {
+            "description": "Your Mongo DB URL Obtained From mongodb.com",
+            "value": "",
+            "required": true
+        }
+    },
+    "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
