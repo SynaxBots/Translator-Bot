@@ -1,7 +1,7 @@
 {
     "name": "Translator v1 Bot Synax",
     "description": "Telegram Translator Bot By Synax",
-    "logo": "https://telegra.ph/file/625f8f58e2dfdc92f156a.jpg",
+    "logo": "https://telegra.ph/file/91db6870a7027b4e400e3.jpg",
     "keywords": ["Tanslator Bot v1", "Mongo DB"],    
     "repository": "https://github.com/synaxxlove/Translator-Bot",
     "env": {
