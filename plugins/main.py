@@ -14,7 +14,7 @@ I am a google translator telegram bot.**
 
 ➜ 𝗜 𝗰𝗮𝗻 𝘁𝗿𝗮𝗻𝘀𝗹𝗮𝘁𝗲 𝗳𝗿𝗼𝗺 𝗮𝗻𝘆 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀 𝘁𝗼 𝗮𝗻𝘆 𝗹𝗮𝗻𝗴𝘂𝗮𝗴𝗲𝘀.
 
-©️@coder_s4nax 🍁❤️"""
+©️ @coder_s4nax ❤️"""
 
 HELP_TEXT = """**Hey, Follow these steps:**
 
@@ -34,7 +34,7 @@ HELP_TEXT = """**Hey, Follow these steps:**
 /set - For set default language
 /unset - For unset default language
 
-©️@coder_s4nax 🍁"""
+©️ @coder_s4nax 🍁"""
 
 ABOUT_TEXT = """--**About Me 😎**--
 
